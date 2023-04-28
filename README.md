@@ -8,15 +8,19 @@ express
 typescript + react + vite
 
 ## usage
-- server on  
-  cd server  
-npm install  
-node server.js  
+- server on
+```  
+$ cd server  
+$ npm install  
+$ node server.js
+```
 
-- client on  
-cd client  
-yarn  
-yarn run dev  
+- client on
+```  
+$ cd client  
+$ yarn  
+$ yarn run dev
+```
 
 
 ## docs
